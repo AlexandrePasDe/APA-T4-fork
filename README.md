@@ -196,3 +196,4 @@ La entrega se formalizará mediante *pull request* al repositorio de la tarea.
 El fichero `README.md` deberá respetar las reglas de los ficheros Markdown y
 visualizarse correctamente en el repositorio, incluyendo la imagen con la ejecución de
 los tests unitarios y el realce sintáctico del código fuente insertado.
+# APA T4 - Generador LGC implementado
